@@ -1,4 +1,5 @@
 # python_algorithms
 
-#Data Structure Class Assignments 
+#Data Structure Class Assignments
+
 #Algorithm Class Assignments 
